@@ -33,8 +33,3 @@ Command:
 gradlew bootRun -Dname=Mike -Dspring.profiles.active=native
 
 -------------------------------------------------------------------------------------------------------------------------
-Passing Profile - Approach3:
-
-Hard code the following configuration at 'bootstrap.properties'
-spring.profiles.active={profile} 
-
